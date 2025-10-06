@@ -1,0 +1,359 @@
+Effective: October 6, 2025
+Version: 1.0
+
+
+
+
+
+1. Introduction
+
+Welcome! By reading this, you are 
+considering joining a movement, not a mere 
+platform. VivaU is a secure, encrypted, 
+ephemeral environment where communities can 
+organize, share resources, and communicate 
+without fear of surveillance or 
+interference.
+This prospectus explains, in detail, what 
+volunteering entails, how the platform 
+functions, and the principles guiding every 
+line of code. Our goal is complete clarity, 
+transparency, and alignment with the safety 
+and privacy of the communities we serve.
+Volunteering with VivaU is about directly 
+protecting and empowering people under 
+threat. You are not just helping a project.
+You are helping ensure that organizers, 
+activists, journalists, and vulnerable 
+communities have a shield against 
+oppression.
+
+
+
+2. Why VivaU Exists
+
+VivaU exists because the world has become 
+unsafe:
+	•	Governments, corporations, and 
+malicious actors constantly monitor 
+communication channels.
+	•	Activists, community organizers, 
+journalists, and marginalized communities 
+are targeted for their work or beliefs.
+	•	Conventional platforms track, store,
+and monetize user data, making users 
+vulnerable to exploitation, harassment, or 
+legal consequences.
+
+VivaU’s purpose:
+	1.	Protect lives and freedom — create a 
+platform where users can communicate, 
+organize, and request or offer mutual aid 
+without risk of surveillance or profiling.
+	2.	Guarantee privacy — no backdoors, 
+no analytics, no corporate partnerships, 
+no tracking.
+	3.	Empower communities — provide tools 
+for mutual aid, organizing, and safe 
+connection.
+
+This is a purpose-driven project. We are 
+coding from scratch because no existing 
+platform meets our uncompromising standards 
+for end-to-end encryption, ephemeral 
+storage, and user-controlled data.
+
+
+
+3. Platform Overview
+
+VivaU is being built with security-first 
+principles. At launch, the platform will 
+focus on critical core functionality:
+
+Core Features
+	1.	Community Feed
+	•	Users can post updates, announcements,
+and news.
+	•	Posts are ephemeral: they exist until 
+the user deletes them.
+	•	Only participants see the posts; data 
+is never permanently stored.
+	2.	Mutual Aid Pages / Forms
+	•	Users can request help or offer 
+resources safely.
+	•	Forms are submitted securely; only 
+authorized participants see them.
+	•	All submissions are encrypted and 
+ephemeral.
+	3.	Direct Messages (DMs)
+	•	Fully end-to-end encrypted by default.
+	•	Messages are never stored permanently;
+deletion removes content from all clients.
+	•	Only sender and recipient can read 
+messages; not VivaU, not the provider, not 
+any government entity.
+
+Future Features (After Core Safety is 
+Established)
+	•	Livestreaming and real-time event 
+coordination
+	•	Profile customization and social 
+features
+	•	Additional collaboration tools
+
+Technical Principles
+	•	End-to-End Encryption: Every message, 
+post, and form is encrypted on the client 
+side.
+	•	Ephemeral Storage: Nothing is 
+permanently written; deleted content is 
+irreversibly purged.
+	•	Metadata Stripping: All uploaded media 
+is stripped of GPS, EXIF, and device data.
+	•	IP Masking: IP addresses are never 
+stored raw and are obfuscated to prevent 
+tracking.
+	•	No Third-Party Dependencies: No 
+trackers, ads, analytics, or data-sharing.
+
+
+
+4. Volunteer Roles & Responsibilities
+
+Volunteers are the backbone of VivaU. 
+Your role is to support platform 
+functionality, testing, and safe use, 
+while upholding security standards.
+
+Primary Roles
+	1.	Mutual Aid Support
+	•	Review submitted forms for clarity and 
+safety compliance.
+	•	Help organize requests/offers in ways 
+that maximize usefulness without exposing 
+sensitive data.
+	•	Provide feedback to ensure the 
+interface is intuitive and secure.
+   2.	Testing & Quality Assurance
+	•	Test all features, including posts, 
+DMs, and forms.
+	•	Identify bugs, usability issues, or 
+potential privacy risks.
+	•	Confirm that deleted content is fully 
+removed and cannot be reconstructed.
+	3.	Community Feedback
+	•	Gather input from early users on 
+usability, clarity, and safety.
+	•	Provide detailed reports on areas for 
+improvement.
+	•	Suggest features only after verifying 
+they maintain privacy-first principles.
+	4.	Documentation & Training
+	•	Assist in creating guides for users 
+and volunteers.
+	•	Draft security instructions, FAQs, and 
+protocols for safe operation.
+
+
+
+Technical Volunteers / Coders & Developers
+
+Coders and developers are critical for 
+building and maintaining VivaU. Your work 
+ensures the platform meets the highest 
+standards of security, privacy, and 
+functionality.
+
+Responsibilities:
+	•	Frontend Development
+	•	Translate Figma designs into fully 
+functional React components without 
+altering visual design.
+	•	Ensure proper integration of community 
+feed, mutual aid forms, and DMs.
+	•	Implement secure handling of encrypted 
+messages and ephemeral data in the UI.
+	•	Backend Development
+	•	Maintain the server environment for 
+secure relay of encrypted messages.
+	•	Ensure ephemeral storage works 
+correctly: deleted content is permanently 
+removed.
+	•	Manage WebSocket connections, 
+authentication, and end-to-end encryption 
+protocols.
+	•	Security & Encryption
+	•	Implement and review client-side 
+encryption for all messages, posts, and 
+forms.
+	•	Verify that metadata stripping and IP 
+masking functions are robust.
+	•	Conduct code audits to prevent 
+vulnerabilities or accidental leaks.
+	•	Testing & Debugging
+	•	Stress-test features under realistic 
+usage scenarios.
+	•	Ensure deletion workflows fully purge 
+content from memory.
+	•	Collaborate with QA volunteers to 
+replicate and fix issues.
+	•	Optional Advanced Roles
+	•	Explore ways to scale the platform 
+safely while maintaining privacy-first 
+principles.
+	•	Integrate new secure features 
+(live streaming, event coordination) 
+only after core safety systems are verified.
+	•	Contribute to the open-source security 
+review process to maintain transparency.
+
+Expectations for Coders/Developers:
+	•	Uphold absolute security standards — 
+no shortcuts, no data exposure.
+	•	Maintain documentation and clarity 
+so other volunteers can safely engage.
+	•	Collaborate with project leads to 
+prioritize features that ensure user safety 
+and core functionality first.
+
+
+
+5. Expectations for All Volunteers
+	•	Integrity & Confidentiality: Respect 
+the security and privacy of users and 
+other volunteers.
+	•	Flexibility: Contribute as your 
+schedule allows; all effort is valuable.
+	•	Active Participation: Provide feedback, 
+report issues, and help maintain the 
+platform’s usability and safety.
+	•	Safety Awareness: Understand that you 
+are working on a platform for people under 
+threat; follow all security protocols.
+
+
+
+6. Safety & Privacy Principles
+
+All features in VivaU are designed to 
+guarantee safety:
+	1.	End-to-End Encryption — Messages, 
+posts, and forms are encrypted client-side.
+	2.	Ephemeral Storage — Deleted content 
+is permanently removed from all systems.
+	3.	Metadata & IP Masking — Uploaded 
+media stripped of GPS/EXIF; IP addresses 
+anonymized.
+	4.	No Third-Party Integration — No ads, 
+analytics, or corporate surveillance.
+	5.	Transparency — Volunteers and users 
+have access to security and policy 
+documentation.
+
+
+7. Tools and Workflow for Volunteers
+	•	Mattermost (Self-Hosted):
+Task coordination, secure communication, 
+and volunteer onboarding. All channels are 
+fully under VivaU control, encrypted, and 
+self-hosted. No third-party access.
+	•	Development / Test Environment:
+Safe testing of features, including 
+community feed, mutual aid forms, and 
+encrypted DMs, before public release.
+	•	Documentation:
+Step-by-step guides for mutual aid, 
+testing, and coding tasks, ensuring 
+volunteers understand workflows and 
+safety protocols.
+	•	Reporting:
+Secure, centralized channels for bugs, 
+security issues, or workflow suggestions. 
+All communication happens inside 
+Mattermost to maintain privacy.
+
+
+
+8. Goals of Volunteering
+
+By volunteering, you are:
+	•	Protecting users from surveillance and 
+exploitation.
+	•	Helping build real-world community 
+resilience.
+	•	Contributing to a platform that 
+empowers organizing and mutual aid.
+	•	Ensuring the highest standards of 
+privacy and safety are implemented from 
+day one.
+
+
+
+9. Commitment & Accountability
+	•	Time: Flexible, volunteer-driven.
+	•	Actions: Fully accountable; adhere to 
+protocols.
+	•	Impact: Direct and measurable — your 
+contributions enhance safety and 
+functionality.
+
+
+
+10. Vision and Long-Term Impact
+
+VivaU is designed as a lifeline, shield, 
+and collective tool:
+	•	Communities can organize safely under 
+threat.
+	•	Volunteers maintain clear, defined 
+roles that protect user privacy.
+	•	Platform can scale safely to thousands 
+or tens of thousands of users without 
+compromising safety.
+
+
+
+11. Next Steps for Volunteers
+	1.	Join the Mattermost Volunteer 
+Workspace.
+	•	You will receive secure credentials to 
+access the self-hosted Mattermost instance.
+	2.	Read this full prospectus thoroughly.
+	•	Understand your role, expectations, 
+and the platform’s safety principles.
+	3.	Begin with assigned tasks:
+	•	Mutual aid form review, feature 
+testing, or coding tasks, depending on 
+your role.
+	4.	Provide feedback and participate as 
+your schedule allows.
+	•	Report bugs, suggest improvements, or 
+share insights safely inside Mattermost.
+	5.	Follow all security and privacy 
+protocols.
+	•	Never expose sensitive user data 
+outside the platform.
+	•	Ensure all actions align with VivaU’s 
+commitment to end-to-end encryption, 
+ephemeral storage, and privacy-first 
+principles.
+
+
+
+12. Why This Matters
+
+VivaU is more than a project. It is a 
+movement.
+Every task, test, and line of code directly 
+protects lives, strengthens communities, 
+and ensures freedom under threat.
+
+Our Pledge:
+VivaU will never compromise, cooperate, or 
+comply with oppression.
+User safety is non-negotiable. Volunteer 
+integrity is expected.
+Every feature, workflow, and interaction 
+prioritizes human dignity, safety, and 
+freedom.

@@ -1,1 +1,1 @@
-# vivaU-Terms-of-Use
+# vivaU-Legal

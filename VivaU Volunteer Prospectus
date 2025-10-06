@@ -253,11 +253,12 @@ documentation.
 
 
 7. Tools and Workflow for Volunteers
-	•	Mattermost (Self-Hosted):
-Task coordination, secure communication, 
-and volunteer onboarding. All channels are 
-fully under VivaU control, encrypted, and 
-self-hosted. No third-party access.
+	•	CryptPad (Self-Hosted):
+Task coordination, secure communication,
+and volunteer onboarding. All pads and 
+channels are fully under VivaU control, 
+end-to-end encrypted, and self-hosted. No 
+third-party access.
 	•	Development / Test Environment:
 Safe testing of features, including 
 community feed, mutual aid forms, and 
@@ -315,10 +316,10 @@ compromising safety.
 
 
 11. Next Steps for Volunteers
-	1.	Join the Mattermost Volunteer 
-Workspace.
-	•	You will receive secure credentials to 
-access the self-hosted Mattermost instance.
+	1.	Join the CryptPad Volunteer 
+Workspace
+	•	You will receive secure credentials 
+to access the self-hosted CryptPad instance.
 	2.	Read this full prospectus thoroughly.
 	•	Understand your role, expectations, 
 and the platform’s safety principles.
